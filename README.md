@@ -7,3 +7,8 @@ The templates contains all necessary to add the UI in your project.
 Use external libraries? **NO**
 
 <img src="template1/img.png" width="200">
+
+## Template2 [code](template2)
+Use external libraries? **NO**
+
+<img src="template2/img.png" width="200">
