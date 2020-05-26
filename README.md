@@ -11,4 +11,4 @@ Use external libraries? **NO**
 ## Template2 [code](template2)
 Use external libraries? **NO**
 
-<img src="template2/img.png" width="200">
+<img src="template2/img.jpg" width="200">
